@@ -1,0 +1,16 @@
+[
+{
+  "modid": "antitroll",
+  "name": "AntiTroll",
+  "description": "Blocks trolls on speedcubing",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reclqtch"],
+  "credits": "Reclqtch",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
